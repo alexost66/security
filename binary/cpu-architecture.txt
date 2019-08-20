@@ -1,8 +1,3 @@
-
-<!-- saved from url=(0069)https://sockpuppet.org/issue-79-file-0xb-foxport-hht-hacking.txt.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><title>hht hacking</title>
-<pre style="font-family:&#39;Lucida Console&#39;, Monaco, monospace;">## Issue 79, File 0xB
-
 ## Reversing the VKSI2000 Hand-Held Trading Device
 
 by FOX PORT 
